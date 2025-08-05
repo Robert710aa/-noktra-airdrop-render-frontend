@@ -1,1 +1,3 @@
-// globals.css - placeholder for styles
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,1 +1,1 @@
-// page.tsx - placeholder for app
+export default function Page() { return <div className="text-white">Noktra Airdrop działa!</div>; }
