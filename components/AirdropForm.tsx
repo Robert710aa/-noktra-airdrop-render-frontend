@@ -1,0 +1,1 @@
+// AirdropForm.tsx - placeholder for components
