@@ -1,3 +1,3 @@
 # Noktra Airdrop
 
-Działający frontend Next.js + Tailwind pod Render + backend.
+Frontend gotowy do działania na Render.
